@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<res xmlns="http://tizen.org/ns/rm">
+    <group-image folder="contents">
+        <node folder="contents/en_GB" language="en_GB"/>
+    </group-image>
+    <group-layout folder="contents">
+        <node folder="contents/en_GB" language="en_GB"/>
+    </group-layout>
+    <group-sound folder="contents">
+        <node folder="contents/en_GB" language="en_GB"/>
+    </group-sound>
+    <group-bin folder="contents">
+        <node folder="contents/en_GB" language="en_GB"/>
+    </group-bin>
+</res>
